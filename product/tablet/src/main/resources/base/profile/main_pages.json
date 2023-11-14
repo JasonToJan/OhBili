@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/Splash",
+    "pages/Index",
+    "pages/Video",
+    "pages/Search",
+    "pages/TopSearch",
+    "pages/SearchResult",
+    "pages/Setting",
+    "pages/Feedback",
+    "pages/About",
+    "pages/LogDetail"
+  ]
+}

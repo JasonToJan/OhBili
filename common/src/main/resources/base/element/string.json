@@ -1,0 +1,144 @@
+{
+  "string": [
+    {
+      "name": "home",
+      "value": "Home"
+    },
+    {
+      "name": "moments",
+      "value": "Moments"
+    },
+    {
+      "name": "shopping",
+      "value": "Shopping"
+    },
+    {
+      "name": "mine",
+      "value": "Mine"
+    },
+    {
+      "name": "live_stream",
+      "value": "LiveStream"
+    },
+    {
+      "name": "func_develop",
+      "value": "Function develop"
+    },
+    {
+      "name": "home_recommend",
+      "value": "Recommend"
+    },
+    {
+      "name": "home_hot",
+      "value": "Hot"
+    },
+    {
+      "name": "home_movie",
+      "value": "Movie"
+    },
+    {
+      "name": "home_animation",
+      "value": "Animation"
+    },
+    {
+      "name": "refresh_success",
+      "value": "Refresh success"
+    },
+    {
+      "name": "add_items",
+      "value": "Add items"
+    },
+    {
+      "name": "view_num",
+      "value": "%s view"
+    },
+    {
+      "name": "video_overview",
+      "value": "Overview"
+    },
+    {
+      "name": "video_reply",
+      "value": "Reply(%s)"
+    },
+    {
+      "name": "hint_text",
+      "value": "Hint text"
+    },
+    {
+      "name": "offline_cache",
+      "value": "Offline cache"
+    },
+    {
+      "name": "history_record",
+      "value": "History record"
+    },
+    {
+      "name": "my_favorite",
+      "value": "My favorite"
+    },
+    {
+      "name": "watch_later",
+      "value": "Watch later"
+    },
+    {
+      "name": "more_service",
+      "value": "More service"
+    },
+    {
+      "name": "setting",
+      "value": "Setting"
+    },
+    {
+      "name": "problem_feedback",
+      "value": "Problem feedback"
+    },
+    {
+      "name": "about",
+      "value": "About"
+    },
+    {
+      "name": "click_login",
+      "value": "Click login"
+    },
+    {
+      "name": "attention",
+      "value": "Attention"
+    },
+    {
+      "name": "fans",
+      "value": "Fans"
+    },
+    {
+      "name": "dynamic_state",
+      "value": "Dynamic state"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "dislike",
+      "value": "Dislike"
+    },
+    {
+      "name": "search",
+      "value": "Search"
+    },
+    {
+      "name": "top_search",
+      "value": "Top search"
+    },
+    {
+      "name": "bili_top_search",
+      "value": "Bilibili top search"
+    },
+    {
+      "name": "subscribed",
+      "value": "Subscribed"
+    },
+    {
+      "name": "unit_million",
+      "value": "Million"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "string": [
+    {
+      "name": "home",
+      "value": "首页"
+    },
+    {
+      "name": "moments",
+      "value": "动态"
+    },
+    {
+      "name": "live_stream",
+      "value": "直播"
+    },
+    {
+      "name": "mine",
+      "value": "我的"
+    },
+    {
+      "name": "shopping",
+      "value": "会员购"
+    },
+    {
+      "name": "func_develop",
+      "value": "功能开发中"
+    },
+    {
+      "name": "home_recommend",
+      "value": "推荐"
+    },
+    {
+      "name": "home_hot",
+      "value": "热门"
+    },
+    {
+      "name": "home_movie",
+      "value": "影视"
+    },
+    {
+      "name": "home_animation",
+      "value": "追番"
+    },
+    {
+      "name": "refresh_success",
+      "value": "刷新成功"
+    },
+    {
+      "name": "add_items",
+      "value": "增加的条目"
+    },
+    {
+      "name": "view_num",
+      "value": "%s观看"
+    },
+    {
+      "name": "video_overview",
+      "value": "简介"
+    },
+    {
+      "name": "video_reply",
+      "value": "评论%s"
+    },
+    {
+      "name": "hint_text",
+      "value": "提示文本"
+    },
+    {
+      "name": "offline_cache",
+      "value": "离线缓存"
+    },
+    {
+      "name": "history_record",
+      "value": "历史记录"
+    },
+    {
+      "name": "my_favorite",
+      "value": "我的收藏"
+    },
+    {
+      "name": "watch_later",
+      "value": "稍后再看"
+    },
+    {
+      "name": "more_service",
+      "value": "更多服务"
+    },
+    {
+      "name": "setting",
+      "value": "设置"
+    },
+    {
+      "name": "problem_feedback",
+      "value": "问题反馈"
+    },
+    {
+      "name": "about",
+      "value": "关于"
+    },
+    {
+      "name": "click_login",
+      "value": "点击登录"
+    },
+    {
+      "name": "attention",
+      "value": "关注"
+    },
+    {
+      "name": "fans",
+      "value": "粉丝"
+    },
+    {
+      "name": "dynamic_state",
+      "value": "动态"
+    },
+    {
+      "name": "video",
+      "value": "视频"
+    },
+    {
+      "name": "dislike",
+      "value": "不喜欢"
+    },
+    {
+      "name": "search",
+      "value": "搜索"
+    },
+    {
+      "name": "top_search",
+      "value": "热搜"
+    },
+    {
+      "name": "bili_top_search",
+      "value": "bilibili热搜"
+    },
+    {
+      "name": "subscribed",
+      "value": "已关注"
+    },
+    {
+      "name": "unit_million",
+      "value": "万"
+    }
+  ]
+}

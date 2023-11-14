@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "PhoneAbility_desc",
+      "value": "基于OpenHarmony系统ArkUI框架开发的哔哩哔哩动画第三方客户端"
+    },
+    {
+      "name": "PhoneAbility_label",
+      "value": "OH哔哩"
+    }
+  ]
+}

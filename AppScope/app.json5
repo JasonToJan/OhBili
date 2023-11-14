@@ -1,0 +1,11 @@
+{
+  "app": {
+    "bundleName": "com.wathinst.ohbili",
+    "vendor": "wathinst",
+    "versionCode": 1000000,
+    "versionName": "0.2.0",
+    "icon": "$media:app_icon",
+    "label": "$string:app_name",
+    "distributedNotificationEnabled": true
+  }
+}

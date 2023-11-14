@@ -1,0 +1,19 @@
+{
+  "license": "ISC",
+  "devDependencies": {
+    "@ohos/hypium": "1.0.6"
+  },
+  "name": "ohbili",
+  "description": "example description",
+  "repository": {},
+  "version": "1.0.0",
+  "dependencies": {
+    "@ohos/protobufjs": "^1.0.0",
+    "@ohos/retrofit": "file:./lib/retrofit.har",
+    "@ohos/imageknife": "file:lib/imageknife.har",
+    "@ohos/danmakuflamemaster": "file:./lib/DanmakuFlameMaster.har",
+    "@ohos/ijkplayer": "file:./lib/ijkplayer.har",
+    "@ohos/pulltorefresh": "file:lib/PullToRefresh.har",
+    "@ohos/xlog": "file:lib/xlog.har"
+  }
+}

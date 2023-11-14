@@ -1,0 +1,57 @@
+{
+  "app": {
+    "signingConfigs": [
+//      {
+//        "name": "default",
+//        "type": "HarmonyOS",
+//        "material": {
+//          "certpath": "C:\\Users\\wathi\\.ohos\\config\\auto_debug_ohbili_com.wathinst.ohbili_220086000030030885.cer",
+//          "storePassword": "0000001A966F9FB8257586420650ADA66C6229844502E044F21693A679A89B1B06AFF35AACBF2DA99A3E",
+//          "keyAlias": "debugKey",
+//          "keyPassword": "0000001AB8591209CB95A8B8E581A423899A93C42DA9C8F780639E0FC60CFCBCF28125E7CC329C125A63",
+//          "profile": "C:\\Users\\wathi\\.ohos\\config\\auto_debug_ohbili_com.wathinst.ohbili_220086000030030885.p7b",
+//          "signAlg": "SHA256withECDSA",
+//          "storeFile": "C:\\Users\\wathi\\.ohos\\config\\auto_debug_ohbili_com.wathinst.ohbili_220086000030030885.p12"
+//        }
+//      }
+    ],
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "common",
+      "srcPath": "./common"
+    },
+    {
+      "name": "phone",
+      "srcPath": "./product/phone",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "tablet",
+      "srcPath": "./product/tablet",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
